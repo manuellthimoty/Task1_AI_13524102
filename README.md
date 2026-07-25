@@ -8,8 +8,6 @@ Visualization, Tournament, Benchmark, Puzzle Mode, Zobrist Hash, Principal
 Variation, Undo/Redo tak terbatas, Replay interaktif + export, dan lainnya),
 ditulis sepenuhnya di **GNU Prolog**.
 
-> Repo: `Task1_AI_(NIM)` — ganti `(NIM)` dengan NIM kamu sebelum submit.
-
 ---
 
 ## 1. Cara Menjalankan
